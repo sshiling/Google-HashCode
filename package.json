@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "practice": "node ./2022/practice/index.js",
-    "competition": "node ./2022/competition/index.js"
+    "2022-practice": "node ./2022/practice/index.js",
+    "2022-competition": "node ./2022/competition/index.js"
   },
   "author": "",
   "license": "ISC",
