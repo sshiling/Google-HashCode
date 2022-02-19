@@ -1,4 +1,4 @@
 # Google-HashCode
 
-## Web Site:
+## Web Site
 https://codingcompetitions.withgoogle.com/hashcode
