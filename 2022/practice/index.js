@@ -43,7 +43,7 @@ const createSolution = data => {
   ingredients.forEach(ing => {
     dis[ing] = dis[ing] || 0;
     const diff = likes[ing] - dis[ing];
-    if (diff > 0) {
+    if (diff >= 0) {
       result.push(ing);
     }
   });
