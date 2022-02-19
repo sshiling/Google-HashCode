@@ -58,10 +58,10 @@ const resolveTask = (taskFilePath, solutionFilePath) => {
 
 try {
   resolveTask(file_in_1, file_out_1);
-  // resolveTask(file_in_2, file_out_2);
-  // resolveTask(file_in_3, file_out_3);
-  // resolveTask(file_in_4, file_out_4);
-  // resolveTask(file_in_5, file_out_5);
+  resolveTask(file_in_2, file_out_2);
+  resolveTask(file_in_3, file_out_3);
+  resolveTask(file_in_4, file_out_4);
+  resolveTask(file_in_5, file_out_5);
 } catch (err) {
   console.error(err);
 }
